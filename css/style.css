@@ -1,0 +1,58 @@
+/* header */
+
+#header_main {
+    width: 1440px;
+    background: #2A9D8F;
+    margin: auto;
+    padding: 40px 130px;
+}
+
+.logo_link {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 800px;
+}
+
+nav {
+    display: inline-block;
+}
+
+.nav_li {
+    display: inline-block;
+    margin-right: 50px;
+    color: #FFF;
+    font-family: 'Nerko One', cursive;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.1px;
+}
+li a {
+    color: inherit;
+}
+
+/* footer */
+
+footer {
+    width: 1440px;
+    margin: auto;
+    background: #2A9D8F;
+    padding: 90px 130px;
+}
+
+.footer_ul {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 780px;
+}
+
+.footer_link {
+    font-family: ALK Life;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 8px;
+}
+
+
+/* font-family: 'Nerko One', cursive; */
+/* font-family: 'Poppins', sans-serif; */
